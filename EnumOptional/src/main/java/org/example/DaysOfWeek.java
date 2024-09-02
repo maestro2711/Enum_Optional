@@ -6,8 +6,8 @@ public enum DaysOfWeek {
     WEDNESDAY("Wednesdy",  false),
     THURSDAY("Thursday",  false),
     FRIDAY("Friday", false),
-    SATURDAY("saturday",  true),
-    SUNDAY("Sunday",  true);
+    SATURDAY("weekend",  true),
+    SUNDAY("weekend",  true);
 
 
     private final String weekday;
